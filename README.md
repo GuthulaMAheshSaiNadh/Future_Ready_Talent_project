@@ -5,7 +5,7 @@ This is a web based application developed for health related Kovid Prevention ma
 ### This web based Hospitality Managment application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - https://green-island-08f2a2d00.3.azurestaticapps.net
 
 
 ## Features and Functionalities 😃
@@ -23,7 +23,8 @@ This is a web based application developed for health related Kovid Prevention ma
  📸![Screenshot 2023-07-26 194109](https://github.com/GuthulaMAheshSaiNadh/Future_Ready_Talent_project/assets/132194033/46dafb5c-b28f-4903-9d38-12bc907734de)
  📸![Screenshot 2023-07-26 193825](https://github.com/GuthulaMAheshSaiNadh/Future_Ready_Talent_project/assets/132194033/5fef4e99-ace3-4892-8650-b12a6bcd9884)
  📸![Screenshot 2023-07-26 194214](https://github.com/GuthulaMAheshSaiNadh/Future_Ready_Talent_project/assets/132194033/d9fe163f-88ab-47d4-8d6c-1e9016861fa6)
- 📸![Screenshot 2023-07-26 195344](https://github.com/GuthulaMAheshSaiNadh/Future_Ready_Talent_project/assets/132194033/f93c5f29-0b54-48ed-94a4-94ee15a56e31)
+ 📸![Screenshot 2023-07-26 200837](https://github.com/GuthulaMAheshSaiNadh/Future_Ready_Talent_project/assets/132194033/794f2c85-a43d-468c-8f9d-d6a97dc80575)
+
 
 
 ## Tech Stack 💻
