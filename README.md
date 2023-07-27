@@ -1,6 +1,6 @@
-Kovid - Hospitality Managment
+UnifiedHealth: A Comprehensive COVID-19 Hospitality Platform
 
-This is a web based application developed for health related Kovid Prevention managment and Doctor Consultation based website in india
+This is a web based application developed for health related Covid-19 Prevention managment and Doctor Consultation based website in india
 
 ### This web based Hospitality Managment application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
