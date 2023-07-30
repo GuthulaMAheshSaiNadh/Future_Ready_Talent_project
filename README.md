@@ -5,7 +5,7 @@ This is a web based application developed for health related Covid-19 Prevention
 ### This web based Hospitality Managment application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://green-island-08f2a2d00.3.azurestaticapps.net
+**Project Demo Link** - https://green-island-08f2a2d00.3.azurestaticapps.net
 
 
 ## Features and Functionalities 😃
