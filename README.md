@@ -6,6 +6,7 @@ This is a web based application developed for health related Covid-19 Prevention
 
 
 **Project Demo Link** - https://green-island-08f2a2d00.3.azurestaticapps.net
+
 **Project Demo Vedio Link** - https://youtu.be/X_oKDqagmRo
 
 
